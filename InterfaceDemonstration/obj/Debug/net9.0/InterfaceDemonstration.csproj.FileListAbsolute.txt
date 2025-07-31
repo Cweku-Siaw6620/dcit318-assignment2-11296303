@@ -1,0 +1,15 @@
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\bin\Debug\net9.0\InterfaceDemonstration.exe
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\bin\Debug\net9.0\InterfaceDemonstration.deps.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\bin\Debug\net9.0\InterfaceDemonstration.runtimeconfig.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\bin\Debug\net9.0\InterfaceDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\bin\Debug\net9.0\InterfaceDemonstration.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.sourcelink.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\refint\InterfaceDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\InterfaceDemonstration.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InterfaceDemonstration\obj\Debug\net9.0\ref\InterfaceDemonstration.dll
