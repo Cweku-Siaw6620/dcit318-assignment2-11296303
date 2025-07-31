@@ -1,0 +1,14 @@
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\bin\Debug\net9.0\InheritanceDemonstration.exe
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\bin\Debug\net9.0\InheritanceDemonstration.deps.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\bin\Debug\net9.0\InheritanceDemonstration.runtimeconfig.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\bin\Debug\net9.0\InheritanceDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\bin\Debug\net9.0\InheritanceDemonstration.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\refint\InheritanceDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\InheritanceDemonstration.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\InheritanceDemonstration\obj\Debug\net9.0\ref\InheritanceDemonstration.dll
