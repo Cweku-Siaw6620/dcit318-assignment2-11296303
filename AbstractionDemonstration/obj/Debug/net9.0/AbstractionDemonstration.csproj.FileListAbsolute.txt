@@ -1,0 +1,15 @@
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\bin\Debug\net9.0\AbstractionDemonstration.exe
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\bin\Debug\net9.0\AbstractionDemonstration.deps.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\bin\Debug\net9.0\AbstractionDemonstration.runtimeconfig.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\bin\Debug\net9.0\AbstractionDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\bin\Debug\net9.0\AbstractionDemonstration.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.sourcelink.json
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\refint\AbstractionDemonstration.dll
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.pdb
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\AbstractionDemonstration.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\ACADEMIA\dcit 318\dcit318-assignment2-11296303\AbstractionDemonstration\obj\Debug\net9.0\ref\AbstractionDemonstration.dll
